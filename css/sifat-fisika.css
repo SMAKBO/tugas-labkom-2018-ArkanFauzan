@@ -1,2 +1,12 @@
-
-body
+footer{
+	font-size: 20px; margin-left: 40px; margin-right: 40px;
+}
+body{
+	background:#E9967A;
+}
+h1{
+	font-family: serif; font-size: 40px;
+}
+h2{
+	font-family: cursive; font-size: 30px;
+}
