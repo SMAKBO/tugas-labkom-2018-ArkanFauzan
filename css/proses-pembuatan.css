@@ -1,10 +1,6 @@
 body {
 	color: blue;
 }
-body {
-    background-image: url("background.png");
-    background-repeat:no-repeat;
-    background-size:100% 100%;
-} 
-
-.img{height: 4cm}
+div { 
+	color: blue;
+ }
