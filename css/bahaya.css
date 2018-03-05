@@ -1,7 +1,7 @@
+
 body {
+	background-image: url("img/background.jpg");
 	h1{color:red}
 	h1{text-align: center}
 	h1{text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25)}
 }
-	
-
