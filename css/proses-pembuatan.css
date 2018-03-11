@@ -1,9 +1,4 @@
-body 
-	{color: blue;}
-
-div 
-	{color: blue;}
-	
-.img{height: 4cm}
-
-.text{text-shadow: 2px 2px blue; color: black}
+body {
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+} 
