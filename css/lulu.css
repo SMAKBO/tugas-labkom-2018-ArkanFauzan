@@ -1,0 +1,17 @@
+body {
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+} 
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
